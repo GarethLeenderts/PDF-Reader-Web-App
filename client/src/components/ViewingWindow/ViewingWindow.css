@@ -1,0 +1,15 @@
+.container{
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+}
+
+.window {
+    max-width: 1000px;
+    height: 500px;
+    background-color: #f7f7f7;
+    overflow-y: scroll;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
